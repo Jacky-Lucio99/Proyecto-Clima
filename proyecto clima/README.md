@@ -31,14 +31,12 @@ Si la ciudad no existe o hay un error en la búsqueda, se muestra un mensaje de 
 ## 🚀 Instalación y ejecución
 1. **Clonar el repositorio:**
    ```bash
+ git clone https://github.com/tuusuario/tu-repo.git
+ 
+<img width="1631" height="992" alt="Captura de pantalla 2025-08-14 190229" src="https://github.com/user-attachments/assets/d668b9d5-1915-4937-bc31-c8825c9289bc" />
 
-   <img width="1631" height="992" alt="Captura de pantalla 2025-08-14 190229" src="https://github.com/user-attachments/assets/bf8d37dd-4167-4cb6-9a8d-a8b2d75a4d29" />
+<img width="1624" height="1016" alt="Captura de pantalla 2025-08-14 190149" src="https://github.com/user-attachments/assets/0dce5c42-79f4-44f1-8220-1697591d126b" />
 
-   <img width="1624" height="1016" alt="Captura de pantalla 2025-08-14 190149" src="https://github.com/user-attachments/assets/d64bda4a-6f51-47b0-8141-528dd2f8dc17" />
+  <img width="1642" height="879" alt="Captura de pantalla 2025-08-14 190256" src="https://github.com/user-attachments/assets/19511d30-a8b0-4f8d-aeaa-427ca2cecb2f" />
 
-    <img width="1642" height="879" alt="Captura de pantalla 2025-08-14 190256" src="https://github.com/user-attachments/assets/cd23ba5e-8849-4919-a80b-f9509ab1c955" />
-
-   <img width="1858" height="885" alt="Captura de pantalla 2025-08-14 190341" src="https://github.com/user-attachments/assets/06166ee4-51ef-4e94-8ee3-c282db10d8e2" />
-
-
-   git clone https://github.com/tuusuario/tu-repo.git
+<img width="1858" height="885" alt="Captura de pantalla 2025-08-14 190341" src="https://github.com/user-attachments/assets/e2eb9072-73f9-478e-8079-e85d9bf17f2e" />
